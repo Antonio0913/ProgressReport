@@ -1,0 +1,61 @@
+7/3
+Got used to C# coding language and set up a visual studio on the computer
+Also did some practice problems
+7/4
+Continued reading online guides on C#, and got familiarized with some topics pertaining to objects such as polymorphism, 
+interface, inheritance, and encapsulation but still did not really understand
+Also started reading up on the C# text book reading Chapter 3
+7/5
+Started reading up on C# text book read chapters 4-5
+Mainly just learned about objects and encapsulation in C#
+7/6
+Continued reading C# textbook reading chapters 6 and 7
+In these chapters, I learned about hierarchy/inheritance and interface
+Also finished the first assignment for creating two sort functions
+7/7
+Finished the second assignment for creating starter classes using inheritance, abstract classes, and interfaces.
+Also, read up on chapter 8 of the textbook where I learned about using enum
+7/10 
+Continued reading the textbook finished Chapter 9, 12 and got started on 13
+- 9 learned about binary writing and hex dumper
+- 12 learn about exceptions.
+- 13 learned about the property of struct, using a finalizer, and how it relies on Garbage Collection and learned about ref and out for a method
+7/11
+Worked on an assignment where I implemented read and write when working with a file.
+Started learning how to use unity
+7/12 -7/13
+Spent these two days learning unity while I try to recreate brick breaker
+I learned how to create objects and write codes into them, as well as learned a little about the collision feature provided by unity
+7/14
+I spent this day learning how to use GitHub and getting familiarized with the commands when trying to use git bash\
+I also got to experience using Fork
+
+7/17
+As part of the homework from the weekend, I learned some coding tools such as Gitlab, Jenkins, and FTP, as well as coding 
+principles such as SOLID and Design Patterns. 
+I spent the day learning about Redmine and learning about GitHub and Git flow.
+I also spent some time practicing using git from the command line.
+
+7/18
+I started on assignment 91668.
+After figuring out how to install Jenkins for the rest of the day I was just struggling with using Jenkins and figuring
+out building the game from code through Unity script for the day.
+
+7/19
+I finished my code for turning the HelloWorld into an apk and Windows files
+I spent the rest of the day researching about using Jenkins as well as figuring out how to call functions within Unity script through command line
+
+7/20
+After spending a whole day I finally figured out how to call command in unity through Jenkins to construct an APK on Jenkins
+
+7/21
+After a lot of research, I figured out how to zip the contents of a folder which I applied to the project for windows build.
+I also figured out how to use FileZilla with Jenkins to successfully pass the files I created to another folder on my computer.
+
+7/24
+I spent the day trying to name the files properly so that the generated file would display Andrid_version_build version code
+and Windows_version. I also made the game display the proper message "Hello World" "___ version"
+
+7/25
+I ran into a problem with the naming of my file where Logic is still logic on GitLab so I spent the whole day trying to
+realize the problem and only managed to fix it with help at the end of the day
